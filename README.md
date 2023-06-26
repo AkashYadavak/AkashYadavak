@@ -41,7 +41,7 @@
   <img align="centre" alt="shumbul's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
 </a>
 
-<a href="mailto:shumbularifa@outlook.com">
+<a href="mailto:akashyadavak2003@gmail.com">
   <kbd>
   <img align="centre" alt="shumbul's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
 </a>
