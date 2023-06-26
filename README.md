@@ -5,26 +5,31 @@
 ###### Glad to see you here :heart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shumbul&label=Views&color=blue&style=plastic" alt="shumbul" /> </p>
-
+<!-- comments
 <a href="https://shumbularifa.com">
   <kbd>
   <img align="centre" alt="shumbularifa.com" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
 </a>
- 
+-->
+ <!-- comments
  <a href="https://linktr.ee/shumbul">
   <kbd>
   <img align="centre" alt="shumbul's LinkTree" width="22px" src="https://media.licdn.com/dms/image/C4D03AQGXjFTafm6f2g/profile-displayphoto-shrink_800_800/0/1658606578560?e=2147483647&v=beta&t=a1GP3SeMUJnHaVTB7z1b-2TOFTWQyorjW3EAvPdLjHA" />
 </a>
+-->
    
 <a href="www.linkedin.com/in/akash-yadav-92535324a">
   <kbd>
   <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-  
+
+<!-- comments
  <a href="https://www.instagram.com/shumbul.arifa/">
   <kbd>
   <img align="centre" alt="shumbul's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
+-->
+
 <!--  comments
 <a href="https://twitter.com/ShumbulArifa">
 <kbd>
@@ -57,4 +62,4 @@
 - 💻 Former SDE Intern at Qualcomm, India
 - 🙋‍ More about me: Visit my [website](https://shumbul.github.io/) -->
 - 🖇 Follow me on [LinkedIn](www.linkedin.com/in/akash-yadav-92535324a)
-- 👯 Pronouns: He/Him
+- 👦 Pronouns: He/Him
