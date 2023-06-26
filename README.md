@@ -16,7 +16,7 @@
   <img align="centre" alt="shumbul's LinkTree" width="22px" src="https://media.licdn.com/dms/image/C4D03AQGXjFTafm6f2g/profile-displayphoto-shrink_800_800/0/1658606578560?e=2147483647&v=beta&t=a1GP3SeMUJnHaVTB7z1b-2TOFTWQyorjW3EAvPdLjHA" />
 </a>
    
-<a href="https://linkedin.com/in/shumbul">
+<a href="www.linkedin.com/in/akash-yadav-92535324a">
   <kbd>
   <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
