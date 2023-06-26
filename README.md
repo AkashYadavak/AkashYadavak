@@ -54,4 +54,4 @@
 - 💻 Former SDE Intern at Qualcomm, India
 - 🙋‍ More about me: Visit my [website](https://shumbul.github.io/) -->
 - 🖇 Follow me on [LinkedIn](www.linkedin.com/in/akash-yadav-92535324a)
-- 👯 Pronouns: He/His
+- 👯 Pronouns: He/Him
