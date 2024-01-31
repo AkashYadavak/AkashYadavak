@@ -20,7 +20,7 @@
    
 <a href="www.linkedin.com/in/akash-yadav-ak">
   <kbd>
-  <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="centre" alt="Akash's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
  
