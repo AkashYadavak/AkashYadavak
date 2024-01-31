@@ -48,5 +48,5 @@
 - 🏫 2022 B.Tech. graduate from NIT Karnataka
 - 💻 Former SDE Intern at Qualcomm, India
 - 🙋‍ More about me: Visit my [website](https://shumbul.github.io/) -->
-- 🖇 Follow me on [LinkedIn](www.linkedin.com/in/akash-yadav-ak)
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/akash-yadav-ak)
 - 👦 Pronouns: He/Him
